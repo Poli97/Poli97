@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on <B>DOTS Banking</B>
+
 <!--
 **Poli97/Poli97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
